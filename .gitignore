@@ -1,0 +1,23 @@
+# Logs
+logs/
+*.log
+
+# Dependency directories
+node_modules/
+
+# Build output
+dist/
+
+# Environment variables
+.env
+.env.*
+
+# System files
+.DS_Store
+.vscode/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Tailwind generated files
+client/src/styles/tailwind.css
